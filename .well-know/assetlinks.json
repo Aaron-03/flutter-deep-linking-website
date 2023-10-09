@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aarondevpe.miscelaneos",
+      "sha256_cert_fingerprints": [
+        "00:58:49:E9:37:44:D5:48:B8:2A:E0:34:24:4C:6A:FF:4E:F4:5C:5D:88:4D:D7:D2:52:C9:9F:0B:DE:31:32:20"
+      ]
+    }
+  }
+]
